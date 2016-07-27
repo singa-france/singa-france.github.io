@@ -1,0 +1,18 @@
+Avant de poser une question,
+
+Est-ce que les couleurs semblent bizarre ? (un vert bizarre)
+Est-ce que vous avez ferme la balise ?
+Est-ce que vous avez l'orthographe correcte pour la balise, le nom de classe, l'id...
+Est-ce que vous regardez le document propre ?
+Est-ce que vous importez le document propre (link CSS)?
+Est-ce que vous avez cherche sur Google?
+
+-------------------------------------------------------------------------------
+
+Do the colors look right?
+Did I close the tag?
+Did I misspell the tag name, the attribute, the class, the id?
+Am I looking at the right file (in atom and in the browser)?
+Am I importing the right file (link CSS)?
+Have you searched on Google?
+

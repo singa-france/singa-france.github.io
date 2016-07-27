@@ -1,0 +1,56 @@
+/**************************/
+/******** LESSON 1 ********/
+/**************************/
+
+
+/* general styles */
+body {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+/* header (section 1) styles */
+header {
+  background: #063F80;
+  color: white;
+  padding: 100px;
+  text-align: center;
+}
+.img-profile {
+  margin: 0 auto;
+}
+
+@media (max-width: 480px) {
+  header {
+    padding: 50px 0;
+  }
+}
+
+/**************************/
+/******** LESSON 2 ********/
+/**************************/
+
+/* navigation styles */
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+/**************************/
+/******** LESSON 3 ********/
+/**************************/
+
+/* about image styles */
+.about-icon {
+  display: block;
+  margin: 0 auto;
+}
